@@ -1,6 +1,5 @@
-# oplin-cmdb
+# OpLin-cmdb
 自动化运维平台：CMDB，CI / CD，DevOps的，资产管理，任务编排，持续交付，系统监控，运维管理，配置管理
-ØpenLin 1.0
 
 运行环境介绍
 
